@@ -12,7 +12,7 @@ namespace Railway {
 
             public static void B1()
             {
-
+                Console.WriteLine("Шлагбаум опущен");
             }
         }
 
