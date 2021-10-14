@@ -11,3 +11,16 @@ F:\Практикум по промышленному программирова
 F:\Практикум по промышленному программированию\ПО\railway\Railway\Railway\obj\Debug\netcoreapp3.1\Railway.dll
 F:\Практикум по промышленному программированию\ПО\railway\Railway\Railway\obj\Debug\netcoreapp3.1\Railway.pdb
 F:\Практикум по промышленному программированию\ПО\railway\Railway\Railway\obj\Debug\netcoreapp3.1\Railway.genruntimeconfig.cache
+F:\railway\Railway\bin\Debug\netcoreapp3.1\Railway.exe
+F:\railway\Railway\bin\Debug\netcoreapp3.1\Railway.deps.json
+F:\railway\Railway\bin\Debug\netcoreapp3.1\Railway.runtimeconfig.json
+F:\railway\Railway\bin\Debug\netcoreapp3.1\Railway.runtimeconfig.dev.json
+F:\railway\Railway\bin\Debug\netcoreapp3.1\Railway.dll
+F:\railway\Railway\bin\Debug\netcoreapp3.1\Railway.pdb
+F:\railway\Railway\obj\Debug\netcoreapp3.1\Railway.csprojAssemblyReference.cache
+F:\railway\Railway\obj\Debug\netcoreapp3.1\Railway.AssemblyInfoInputs.cache
+F:\railway\Railway\obj\Debug\netcoreapp3.1\Railway.AssemblyInfo.cs
+F:\railway\Railway\obj\Debug\netcoreapp3.1\Railway.csproj.CoreCompileInputs.cache
+F:\railway\Railway\obj\Debug\netcoreapp3.1\Railway.dll
+F:\railway\Railway\obj\Debug\netcoreapp3.1\Railway.pdb
+F:\railway\Railway\obj\Debug\netcoreapp3.1\Railway.genruntimeconfig.cache
