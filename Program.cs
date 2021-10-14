@@ -6,7 +6,7 @@ namespace Railway
     {
         static void Main(string[] args)
         {
-            
+            TrafficLight.T();
 
         }
     }
